@@ -1,12 +1,13 @@
 import { ArrowRightIcon } from "@heroicons/react/solid";
+import { logo } from "../data";
 
 export default function Navbar() {
   return (
     <header className="bg-zinc-800 md:sticky top-0 z-10">
       <div className="container mx-auto mb-10 flex flex-wrap p-4 flex-col md:flex-row items-center">
         <h1 className="title-font font-medium text-stone-300 hover:text-blue-500 hover:scale-110 mb-4 md:mb-0">
-          <a href="#about" className="ml-3 text-xl">
-            Sayner Mobil
+          <a href="#about" className=" inline-flex ml-3 text-xl">
+          <img class= "w-25 h-5 object-center mx-4 my-0" alt= "Sayner Mobil" src= {logo}/>
           </a>
         </h1>
         <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-zinc-700	flex flex-wrap items-center text-base justify-center">
