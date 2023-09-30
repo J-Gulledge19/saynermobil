@@ -3,6 +3,7 @@ import Navbar from './components/Navbar';
 import About from './components/About';
 import Gasprice from './components/Gasprice';
 import Liquors from './components/Liquors';
+import Contact from './components/Contact';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <About />
       <Gasprice />
       <Liquors />
+      <Contact />
     </main>
   );
 }
