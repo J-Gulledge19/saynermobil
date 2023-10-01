@@ -6,10 +6,10 @@ export default function About() {
             <section id="about">
                 <div className="container mx-auto flex px-10 pt-20 md:flex-row flex-col items-center">
                         <div className="flex-col items-center lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 px-10">
-                        <h4 className="title-font sm:text-3xl text-3xl pl-20 ml-16 mb-1 font-medium text-black-300">
+                        <h4 className="title-font sm:text-3xl text-3xl px-15 mx-16 mb-1 font-medium text-black-300 text-center">
                         Store Hours
                         </h4>
-                        <h4 className="title-font sm:text-3xl text-3xl pl-20 ml-8 mb-1 font-medium text-black-300">
+                        <h4 className="title-font sm:text-3xl text-3xl px-15 mx-8 mb-1 font-medium text-black-300 text-center">
                         7:00am - 6:00pm
                         </h4>
                             <img
@@ -22,8 +22,8 @@ export default function About() {
                             </a>
                         </div>
                     <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:px-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-                        <h1 className="inline-flex title-font sm:text-4xl text-3xl mb-4 font-medium text-black-300">
-                        Welcome to <img class= "w-80 h-90 object-center mx-4 my-0" alt= "Sayner Mobil" src= {logo}/>
+                        <h1 className="lg:inline-flex title-font sm:text-3xl text-4xl mb-4 font-medium text-black-300">
+                        Welcome to <img class= "lg:w-80 h-90 object-center mx-4 my-0" alt= "Sayner Mobil" src= {logo}/>
                         </h1>
                         <p className="mb-8 leading-relaxed mt-5 mb-10 ml-5 text-black-300">
                         Located in the picturesque town of Sayner, Wisconsin, Sayner Mobil is your trusted partner for all your fuel and convenience needs. Nestled amidst the stunning Northwoods of Wisconsin, our gas station has been serving the Sayner community and travelers passing through since 1994.
