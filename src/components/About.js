@@ -1,20 +1,32 @@
+import { AiFillFacebook } from "react-icons/ai";
+import { logo } from "../data";
+
 export default function About() {
     return (
             <section id="about">
                 <div className="container mx-auto flex px-10 pt-20 md:flex-row flex-col items-center">
-                        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 px-10">
+                        <div className="flex-col items-center lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 px-10">
+                        <h4 className="title-font sm:text-3xl text-3xl pl-20 ml-16 mb-1 font-medium text-black-300">
+                        Store Hours
+                        </h4>
+                        <h4 className="title-font sm:text-3xl text-3xl pl-20 ml-8 mb-1 font-medium text-black-300">
+                        7:00am - 6:00pm
+                        </h4>
                             <img
                                 className="object-cover object-center rounded"
                                 alt="hero"
-                                src="https://i.imgur.com/U1EqKfb.jpg"
+                                src="https://i.imgur.com/MeXOtxp.jpg"
                             />
+                            <a href="https://www.facebook.com/profile.php?id=100088310484281&mibextid=ZbWKwL" className="inline-flex text-blue-800 text-3xl leading-relaxed ml-14 mt-5">
+                              <AiFillFacebook/>  Find us on Facebook
+                            </a>
                         </div>
                     <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:px-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-                        <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-black-300">
-                        Welcome to Sayner Mobil
+                        <h1 className="inline-flex title-font sm:text-4xl text-3xl mb-4 font-medium text-black-300">
+                        Welcome to <img class= "w-80 h-90 object-center mx-4 my-0" alt= "Sayner Mobil" src= {logo}/>
                         </h1>
-                        <p className="mb-8 leading-relaxed mt-10 mb-10 ml-5 text-black-300">
-                        Located in the picturesque town of Sayner, Wisconsin, Sayner Mobil is your trusted partner for all your fuel and convenience needs. Nestled amidst the stunning Northwoods of Wisconsin, our gas station has been serving the Sayner community and travelers passing through for years.
+                        <p className="mb-8 leading-relaxed mt-5 mb-10 ml-5 text-black-300">
+                        Located in the picturesque town of Sayner, Wisconsin, Sayner Mobil is your trusted partner for all your fuel and convenience needs. Nestled amidst the stunning Northwoods of Wisconsin, our gas station has been serving the Sayner community and travelers passing through since 1994.
                         </p>
 
                         <h4 className="title-font sm:text-2xl text-3xl mb-1 font-medium text-black-300">
