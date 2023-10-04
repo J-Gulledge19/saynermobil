@@ -8,7 +8,7 @@ export default function Liquors() {
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-black-300">
             New Liquor Arrivals 
           </h1>
-          <p className="lg:w-2/3 mx-auto leading-relaxed text-base text-black-300">
+          <p className="md:w-4/5 lg:w-full mx-auto leading-relaxed text-base text-black-300">
           At Sayner Mobil, we are excited to introduce our latest arrivals in the liquor section. We take pride in offering a carefully curated selection of alcohols to cater to your preferences, whether you're a connoisseur or simply looking to try something new. Explore our newest additions and discover the perfect drink for your next celebration or relaxing evening.
           </p>
         </div>
