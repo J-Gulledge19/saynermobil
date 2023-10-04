@@ -17,7 +17,7 @@ export const liquors = [
     {
         name: "Tito's Vodka",
         image: "https://i.imgur.com/qImRc8i.jpg",
-        price: "26.99",
+        price: "$26.99",
     },
 ];
 
