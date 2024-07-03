@@ -48,19 +48,17 @@ export default function Contact() {
                   2951 WIS-155 Sayner, WI 54560
                 </p>
               </div>
-              <div className="lg:w-2/3 px-6 mb-4">
+              <div className="lg:w-2/3 px-6 mb-0">
                 <h2 className="title-font font-semibold text-black tracking-widest text-xs">
                   Phone
                 </h2>
                 <a href="tel:number" >715-542-2024</a>
               </div>
-              <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
+              <div className="lg:w-1/2 px-6 mt-4 mb-4">
                 <h2 className="title-font font-semibold text-black tracking-widest text-xs">
                   EMAIL
                 </h2>
-                <h2 className="text-indigo-400 leading-relaxed">
-                saynermobilexpress@outlook.com
-                </h2>
+                <a href="mailto:saynermobilexpress@outlook.com" className="text-indigo-400 leading-relaxed">saynermobilexpress@outlook.com</a>
               </div>
               <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
                 <h2 className="title-font font-semibold text-black tracking-widest text-xs">
