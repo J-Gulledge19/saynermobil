@@ -52,9 +52,7 @@ export default function Contact() {
                 <h2 className="title-font font-semibold text-black tracking-widest text-xs">
                   Phone
                 </h2>
-                <p className="mt-1">
-                  715-542-2024
-                </p>
+                <a href="tel:number" >715-542-2024</a>
               </div>
               <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
                 <h2 className="title-font font-semibold text-black tracking-widest text-xs">
