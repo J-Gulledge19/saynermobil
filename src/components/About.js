@@ -16,7 +16,7 @@ export default function About() {
                         7:00am - 6:00pm
                         </h4>
                             <img
-                                className="object-cover object-center rounded"
+                                className="object-cover object-center rounded-lg shadow-blue-600 shadow-lg"
                                 alt="hero"
                                 src="https://i.imgur.com/MeXOtxp.jpg"
                             />
