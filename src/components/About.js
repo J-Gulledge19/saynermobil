@@ -20,7 +20,7 @@ export default function About() {
                                 alt="hero"
                                 src="https://i.imgur.com/MeXOtxp.jpg"
                             />
-                            <a href="https://www.facebook.com/profile.php?id=100088310484281&mibextid=ZbWKwL" className="inline-flex text-blue-800 text-3xl leading-relaxed sm:ml-5 md:ml-14 mt-5">
+                            <a href="https://www.facebook.com/profile.php?id=100088310484281&mibextid=ZbWKwL" target="_blank" rel="noreferrer" className="inline-flex text-blue-800 text-3xl leading-relaxed sm:ml-5 md:ml-14 mt-5">
                               <AiFillFacebook/>  Find us on Facebook
                             </a>
                         </div>
