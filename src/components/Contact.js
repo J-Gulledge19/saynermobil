@@ -64,7 +64,7 @@ export default function Contact() {
                 <h2 className="title-font font-semibold text-black tracking-widest text-xs">
                   Facebook
                 </h2>
-                <a href="https://www.facebook.com/profile.php?id=100088310484281&mibextid=ZbWKwL" className="text-indigo-400 leading-relaxed">
+                <a href="https://www.facebook.com/profile.php?id=100088310484281&mibextid=ZbWKwL" target="_blank" rel="noreferrer" className="text-indigo-400 leading-relaxed">
                 Sayner Mobil
                 </a>
               </div>
