@@ -20,7 +20,7 @@ export default function Liquors() {
                 </h1>
                 <img
                   alt="gallery"
-                  className="w-full h-full object-center m-auto"
+                  className="w-full h-full object-center m-auto shadow-red-500 shadow-xl rounded-lg"
                   src={liquor.image}
                 />
                 <h2 className="title-font text-md font-medium text-black mb-3">
