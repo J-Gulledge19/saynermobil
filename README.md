@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+# Sayner Mobil
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Sayner Mobil website, your trusted local source for quality fuel, convenience store items, and automotive services. Located in the heart of Sayner, we pride ourselves on offering exceptional customer service and a wide range of products to meet the needs of our community.
 
-## Available Scripts
+## Table of Contents
+- [About](#about)
+- [Features](#features)
+- [Services](#services)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contact](#contact)
 
-In the project directory, you can run:
+## About
+Sayner Mobil has been serving the Sayner community for years, offering a friendly and convenient stop for all your fueling and automotive needs. Whether you’re filling up your tank, grabbing a quick snack, or getting your car serviced, we’re here to help.
 
-### `npm start`
+## Features
+- **User-Friendly Interface**: Easy navigation for customers to find information quickly.
+- **Service Information**: Detailed descriptions of the automotive services provided.
+- **Product Listings**: Information on available convenience store items.
+- **Location & Hours**: Find our location and check our operating hours.
+- **Contact Form**: Reach out to us directly for any inquiries.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Services
+Sayner Mobil offers a variety of services, including:
+- **Fueling**: High-quality gasoline and diesel.
+- **Convenience Store**: Snacks, beverages, and other essentials.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
+- **Frontend**:
+  - HTML5
+  - Tailwind
+  - JavaScript
 
-### `npm test`
+- **Hosting**:
+  - Web hosting service provider
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Installation
+This project is a static website hosted on a web server. To run it locally for development or modifications:
 
-### `npm run build`
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/YourUsername/SaynerMobil.git
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. **Navigate to the project directory**:
+   ```bash
+   cd SaynerMobil
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. **Install dependencies**:
+   ```bash
+   npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+4. **Start the development server**:
+   ```bash
+   npm start
 
-### `npm run eject`
+## Usage
+Simply open the website in your browser to explore the services, products, and contact information offered by Sayner Mobil. Customers can use the contact form to get in touch with any inquiries.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contact
+For more information or to get in touch, visit the website or contact us directly:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Website: Sayner Mobil
+- Phone: 715-542-2024
+- Email: saynermobilexpress@outlook.com
+- Address: Sayner Mobil, 2951 WIS-155 Sayner, WI 54560
