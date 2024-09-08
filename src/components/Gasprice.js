@@ -4,7 +4,7 @@ export default function Gasprice() {
             <div className="container mx-auto flex px-10 py-10 pt-0 sm:flex-col-reverse xl:flex-row flex-col-reverse items-center">
                     <div className=" mx-[126px] lg:max-w-lg lg:w-80 mt-10 md:w-1/2 mb-10 px-10 pt-10 shadow-slate-600 shadow-lg rounded-2xl">
                         <h1 className="w-70 title-font sm:text-4xl text-3xl mb-4 font-medium text-black-300">Gas Prices</h1>
-                        <li className="w-40 mb-8 leading-relaxed mt-10 mb-10 ml-5 text-black-300">Regular: $3.29</li>
+                        <li className="w-40 mb-8 leading-relaxed mt-10 mb-10 ml-5 text-black-300">Regular: $3.19</li>
                         <li className="w-40 mb-8 leading-relaxed mt-10 mb-10 ml-5 text-black-300">Mid-Grade: $4.49</li>
                         <li className="w-40 mb-8 leading-relaxed mt-10 mb-10 ml-5 text-black-300">Premium: $4.69</li>
                     </div>
